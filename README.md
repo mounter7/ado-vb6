@@ -1,4 +1,2 @@
-ADO Practical
-
-COLCE2020FXXX
-
+# DAO Practical
+### Ravindu madhushankha
